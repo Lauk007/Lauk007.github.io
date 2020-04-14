@@ -7,7 +7,7 @@ author:     Lauk				# 作者
 header-img: img/post-bg-2015.webp 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 前端 - javascript
+    - 前端
 ---
 
 ### 一.JavaScript中的数据类型
