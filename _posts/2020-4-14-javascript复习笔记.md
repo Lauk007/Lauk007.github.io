@@ -14,7 +14,19 @@ tags:								#标签
 
  **javascript中一共有六种数据类型。parseInt()强转整数、parseFloat()强转浮点数** 
 
- graph TD 函数类型[函数类型] -->|一共六种| B(s bo fun<br />) B -->|布尔型| C[boolean] B -->|字符串型| D[string] B -->|对象型|E[object] B -->|函数型|F[function] B -->|未定义|G[undefined] B -->|整数型|H[number] 
+函数类型[函数类型] -->|一共六种| 
+
+B -->|布尔型|[boolean] 
+
+B -->|字符串型|[string] 
+
+B -->|对象型|[object] 
+
+B -->|函数型|[function] 
+
+B -->|未定义|[undefined] 
+
+B -->|整数型|[number] 
 
 ### 二.获取元素节点
 
