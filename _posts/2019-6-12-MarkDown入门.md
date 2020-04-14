@@ -4,7 +4,7 @@ title:    MarkDown
 subtitle:  MarkDown认识与入门     #副标题
 date:       2019-6-12			   	# 时间
 author:     Lauk				# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+header-img: img/post-bg-2015.webp 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 文档工具
